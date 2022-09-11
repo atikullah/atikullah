@@ -1,12 +1,16 @@
-# Mahmudul Hasan
+# Md. Atikullah
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:hasanmahmudul356@gmail.com)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0077b5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahmudulhasanbashir/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=4267b2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mahmudul.bashir/)
-[![Youtube Channel](https://img.shields.io/badge/%20-Channel-black?color=14171A&labelColor=c53929&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UC15SdGXA3UGgXYcdixqmSiA)
-[![Website Visit](https://img.shields.io/badge/%20-Website-black?color=14171A&labelColor=45B39D&logo=drone&logoColor=ffffff)](https://github.com/hasanmahmudul356)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:atiqurrahman1503@gmail.com)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0077b5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/atik15/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=4267b2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/atiqurrahman1503/)
+[![Youtube Channel](https://img.shields.io/badge/%20-Channel-black?color=14171A&labelColor=c53929&logo=youtube&logoColor=ffffff)]()
+[![Website Visit](https://img.shields.io/badge/%20-Website-black?color=14171A&labelColor=45B39D&logo=drone&logoColor=ffffff)](https://atikullah.github.io/)
 
-:wave: Hi there, My name is Mahmudul Hasan. I'm 26 years old, self-taught, software engineer. Currently, I am working at TMSS ICT LTD as a Senior Software Engineer. I like to work with my team and love to share and gather knowledge. I have completed a degree of Bachelor of Science in Computer Science and Engineering from Green University of Bangladesh.
+:wave: Hi,
+My name is Md. Atikullah.I am from Bangladesh. I am working as a Software Engineer in TMSS ICT Limited. Previously I have completed my Bsc in Software Engiinering from Green University Of Bangladesh.
+I expected to work with an organization where I shall be able to expose myself to every opportunity through a quality and growth oriented job. The working environment should allow me to understand my own values and provide me with a dynamic & challenging career.
+
+
 ### 🛠 &nbsp;Tech Stack
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
