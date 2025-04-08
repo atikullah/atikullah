@@ -2,13 +2,12 @@
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:atiqurrahman1503@gmail.com)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0077b5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/atik15/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=4267b2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/atiqurrahman1503/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=4267b2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/atiqurrahman153/)
 [![Youtube Channel](https://img.shields.io/badge/%20-Channel-black?color=14171A&labelColor=c53929&logo=youtube&logoColor=ffffff)]()
 [![Website Visit](https://img.shields.io/badge/%20-Website-black?color=14171A&labelColor=45B39D&logo=drone&logoColor=ffffff)](https://atikullah.github.io/)
 
-:wave: Hi,
-My name is Md. Atikullah.I am from Bangladesh. I am working as a Software Engineer in TMSS ICT Limited. Previously I have completed my Bsc in Software Engiinering from Green University Of Bangladesh.
-I expected to work with an organization where I shall be able to expose myself to every opportunity through a quality and growth oriented job. The working environment should allow me to understand my own values and provide me with a dynamic & challenging career.
+:wave: 
+My career objective is to work in a professional organization that allows me to fully utilize my skills and knowledge to contribute to both the growth of the company and my personal development. I aim to be part of a dynamic team where I can unlock my full potential, take on meaningful challenges, and thrive in a quality-driven environment.
 
 
 ### 🛠 &nbsp;Tech Stack
